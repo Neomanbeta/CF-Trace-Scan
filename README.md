@@ -41,7 +41,7 @@
 
 1. 下载程序并解压。
 2. 阅读README文件（如有需要）。
-3. 运行主程序：cf_trace_scan_win.exe
+3. 运行主程序
 4. 输入你需要过滤的IP/CIDR或者拖动iplist.txt到主程序上过滤AS13335的全段
 
 ## 🙏 致谢 / Acknowledgements
