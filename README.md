@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Neomanbeta/CF-IP-CM-Finder/releases"><img src="https://img.shields.io/github/v/release/Neomanbeta/CF-IP-CM-Finder?style=flat-square&color=brightgreen" alt="Release"></a>
-  <a href="https://github.com/Neomanbeta/CF-IP-CM-Finder/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Neomanbeta/CF-IP-CM-Finder?style=flat-square" alt="License"></a>
-  <a href="https://github.com/Neomanbeta/CF-IP-CM-Finder/stargazers"><img src="https://img.shields.io/github/stars/Neomanbeta/CF-IP-CM-Finder?style=flat-square" alt="Stars"></a>
-  <a href="https://github.com/Neomanbeta/CF-IP-CM-Finder/issues"><img src="https://img.shields.io/github/issues/Neomanbeta/CF-IP-CM-Finder?style=flat-square" alt="Issues"></a>
+  <a href="https://github.com/Neomanbeta/CF-Trace-Scan/releases"><img src="https://img.shields.io/github/v/release/Neomanbeta/CF-Trace-Scan?style=flat-square&color=brightgreen" alt="Release"></a>
+  <a href="https://github.com/Neomanbeta/CF-Trace-Scan/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Neomanbeta/CF-Trace-Scan?style=flat-square" alt="License"></a>
+  <a href="https://github.com/Neomanbeta/CF-Trace-Scan/stargazers"><img src="https://img.shields.io/github/stars/Neomanbeta/CF-Trace-Scan?style=flat-square" alt="Stars"></a>
+  <a href="https://github.com/Neomanbeta/CF-Trace-Scan/issues"><img src="https://img.shields.io/github/issues/Neomanbeta/CF-Trace-Scan?style=flat-square" alt="Issues"></a>
 </p>
 
 </div>
@@ -19,7 +19,7 @@
 
 ## 📖 简介 / About
 
-**CF-IP-CM-Finder** 是一款专为中国移动网络优选设计的工具，旨在帮助用户快速找到低延迟、高速度的优选IP。本项目开箱即用，配置灵活。
+**CF-Trace-Scan** 是一款专为中国移动网络优选设计的工具，旨在帮助用户快速找到低延迟、高速度的优选IP。本项目开箱即用，配置灵活。
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 📥 下载与安装 / Download & Installation
 
-前往 [Releases 页面](https://github.com/Neomanbeta/CF-IP-CM-Finder/releases) 下载适合你系统的最新版本。
+前往 [Releases 页面](https://github.com/Neomanbeta/CF-Trace-Scan/releases) 下载适合你系统的最新版本。
 ---
 
 ## 💡 快速使用 / Quick Start
