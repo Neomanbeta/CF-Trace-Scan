@@ -56,4 +56,4 @@
 
 ## 📄 许可证 / License
 
-本项目基于 [MIT License](LICENSE) 开源，你可以自由地使用、修改和分发。
+本项目基于 [MIT License](LICENSE) 开源，你可以自由地使用、分发。
