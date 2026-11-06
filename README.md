@@ -50,7 +50,7 @@
 
 - [Cloudflare CDN](https://www.cloudflare.com/) - 提供了强大的网络基础设施支持。
 - [Kyrie](https://t.me/danfeng_chat) - 感谢其在核心算法/架构上提供的灵感与参考。
-- [🅱️γ 2️⃣2️⃣](t.me/CMLiussss)) - 感谢其提供的测试和脚本构建。
+- [🅱️γ 2️⃣2️⃣](https://t.me/CMLiussss)) - 感谢其提供的测试和脚本构建。
 - 感谢所有为本项目提交过 Issue 和 Pull Request 的贡献者！
 ---
 
